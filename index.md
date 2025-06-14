@@ -9,32 +9,12 @@ header:
   caption: "Exploring theory, code, and applications"
 ---
 
-Welcome to **Yuyao's Notebook** — a digital space where research meets curiosity.
+Hi! I’m **Yuyao Wang**, a fifth-year Ph.D. candidate in Statistics at Boston University, co-advised by Dr. Debarghya Mukherjee and Dr. Luis Carvalho. My research lies at the intersection of transfer learning, graph mining, and nonparametric statistics, with a focus on building theoretically grounded methods for analyzing structured and heterogeneous data.
 
-Here I document ideas, findings, and reflections from my journey as a Ph.D. student in Statistics at Boston University.  
-My research centers on developing statistically principled and theoretically sound solutions to modern challenges in data science and machine learning.
+I'm particularly interested in how statistical theory can inform learning under distributional shifts, and how structural information—like graphs or manifolds—can be leveraged to improve estimation and inference. My work blends ideas from mathematical statistics, machine learning, and network modeling to develop tools that are both principled and practical.
 
-I’m especially passionate about:
+Prior to BU, I completed my M.A. in Statistics at Columbia University and received my B.S. in Mathematics from Shandong University, where I was part of the Hua Loo-Keng Talent Program. Across all my work, I’m driven by a fascination with structure, a respect for theory, and a desire to build tools that generalize.
 
-- **Statistical Machine Learning** — designing interpretable models with provable guarantees for complex data
-- **Transfer Learning** — building adaptive algorithms to leverage knowledge across domains under distributional shifts
-- **Graph Mining** — modeling and analyzing structured data using graphons, GNNs, and probabilistic frameworks
-- **Nonparametric Methods** — constructing flexible estimators with minimax-optimal guarantees without strong assumptions
-
----
-
-### 🎓 Education Background
-
-- **Ph.D. in Statistics**, *Boston University*, USA  
-  *Sep. 2021 – May 2026 (Expected)*  
-  ▷ Co-advised by Professors Debarghya Mukherjee and Luis Carvalho  
-
-- **M.A. in Statistics**, *Columbia University*, USA  
-  *Sep. 2019 – May 2020*  
-
-- **B.S. in Mathematics**, *Shandong University*, China  
-  *Sep. 2015 – Jun. 2019*  
-  ▷ Hua Loo-Keng Talent Program; Joint training with Chinese Academy of Sciences  
 
 ---
 
