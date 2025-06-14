@@ -9,9 +9,6 @@ header:
   caption: "Exploring theory, code, and applications"
 ---
 
-
-# Yuyao Wang
-
 **Ph.D. Candidate**  
 Department of Statistics, Boston University  
 Boston, MA, USA
