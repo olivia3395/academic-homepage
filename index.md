@@ -9,7 +9,7 @@ header:
   caption: "Exploring theory, code, and applications"
 ---
 
-# Yuyao Wang (王宇瑶)
+# Yuyao Wang
 
 **Ph.D. Candidate**  
 Department of Statistics, Boston University  
@@ -28,7 +28,7 @@ My research lies at the intersection of **transfer learning**, **graph mining**,
 
 My work blends ideas from mathematical statistics, machine learning, and network modeling to develop tools that are both principled and practical. I am especially drawn to methods that operate well in **low-sample**, **high-dimensional**, or **non-IID** settings, often combining graph-theoretic insights with minimax theory and adaptive regularization.
 
-Before joining BU, I earned my M.A. in Statistics from **Columbia University**, where I focused on Bayesian and machine learning methods, and received my B.S. in Mathematics from **Shandong University** as part of the Hua Loo-Keng Talent Program, in collaboration with the Chinese Academy of Sciences.
+Before joining BU, I earned my M.A. in Statistics from **Columbia University**, and received my B.S. in Mathematics from **Shandong University** as part of the Hua Loo-Keng Talent Program, in collaboration with the Chinese Academy of Sciences.
 
 📬 Feel free to reach out for discussions or collaborations!
 
