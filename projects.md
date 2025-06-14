@@ -39,6 +39,7 @@ permalink: /projects/
 
 
 - **MKDnet: Multi-level Knowledge Distillation for Spatiotemporal Graph Forecasting**
+
   *MKDnet* is a multi-scale knowledge distillation framework for improving spatiotemporal forecasting in traffic and mobility networks. To address challenges like sparse data and domain shifts, it employs a hierarchical student–teacher architecture that transfers informative representations across spatial, temporal, and task levels. The high-capacity teacher captures long-range spatiotemporal patterns, while the lightweight student learns through both **representation-level** and **prediction-level** distillation. By integrating **graph convolutional networks (GCNs)** and **temporal modules** (e.g., GRUs or attention), *MKDnet* effectively models dynamic graph structures. Its **multi-level supervision**—from features to outputs—enhances generalization to unseen regions and patterns.
   
   ![MKDnet Workflow](/assets/images/mkdnet_workflow.jpg)
@@ -47,13 +48,16 @@ permalink: /projects/
 
 ### 🚧 Ongoing Projects
 
-- **Transfer Learning for Community Detection**  
+- **Transfer Learning for Community Detection**
+
   This project focuses on developing a principled framework for transferring community detection knowledge from well-studied, high-resource graphs to structurally similar but data-scarce networks. By leveraging the latent modular structure and aligning key topological patterns, we aim to enhance interpretability and detection accuracy in low-sample regimes—such as marginalized communities or under-observed social systems. The work also explores connections to stochastic block models and robust optimization, with potential applications in areas like misinformation tracking and subgroup discovery.
 
-- **Hypergraph-Augmented Knowledge Graph Embedding**  
+- **Hypergraph-Augmented Knowledge Graph Embedding**
+
   Real-world knowledge often involves complex, higher-order interactions that are difficult to capture using pairwise relationships alone. This project introduces a hybrid embedding framework that combines knowledge graph link structures with hypergraph-based co-occurrence signals to better capture multi-entity semantics. The approach integrates hypergraph encodings into graph neural network architectures (e.g., GCN, HyperGCN), supporting more robust and expressive link prediction, especially in sparse and noisy biomedical datasets. Applications include drug discovery, disease treatment, and multi-relational reasoning under limited supervision.
 
-- **Network Varying Coefficient Models under Distribution Shift**  
+- **Network Varying Coefficient Models under Distribution Shift**
+  
   Motivated by dynamic systems such as urban traffic and information diffusion, this project proposes a functional regression framework tailored for time-evolving networks. By modeling how node-level responses vary across both temporal and spatial dimensions, the method adapts to shifting domain structures through cross-network transfer learning. A key focus is on measuring structural similarity between source and target graphs to guide reliable information borrowing, ensuring improved generalization and adaptability in non-stationary environments.
 
 
