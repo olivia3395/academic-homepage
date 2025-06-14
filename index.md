@@ -8,6 +8,8 @@ header:
   overlay_image: /assets/images/banner.jpg
   overlay_filter: 0.3
   caption: "Exploring theory, code, and applications"
+show_excerpts: false  
+entries_layout: list  
 ---
 
 
