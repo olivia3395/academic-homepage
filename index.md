@@ -1,12 +1,8 @@
 ---
-layout: home
-author_profile: true
-title: "Welcome to Yuyao's Notebook"
-excerpt: "A PhD student's journey through statistics, data science, and machine learning."
-header:
-  overlay_image: /assets/images/banner.jpg
-  overlay_filter: 0.3
-  caption: "Exploring theory, code, and applications"
+author:
+  name: "Yuyao Wang"
+  avatar: "/assets/images/banner.jpg"
+  bio: "Ph.D. candidate in Statistics at Boston University"
 ---
 
 # Yuyao Wang
