@@ -39,11 +39,9 @@ permalink: /projects/
 
 
 - **MKDnet: Multi-level Knowledge Distillation for Spatiotemporal Graph Forecasting**
-
-  *MKDnet* is a multi-scale knowledge distillation framework designed to enhance spatiotemporal forecasting in traffic and mobility networks. While existing models often struggle to generalize under sparse data or domain shifts, *MKDnet* introduces a hierarchical student-teacher architecture to transfer useful representations across time, space, and task levels. The teacher model operates at a high-capacity level, capturing long-term spatial-temporal dependencies with rich graph signals. Meanwhile, the student model is lightweight and fast, trained under the guidance of the teacher through **representation-level** and **prediction-level** distillation losses. The framework further integrates **graph convolutional networks (GCNs)** and **temporal modeling modules** (such as GRUs or attention mechanisms) to capture dynamic topological changes. A key innovation is the use of **multi-level supervision**—including feature, hidden, and output states—allowing the student to learn not just final predictions but also intermediate behaviors. This ensures better adaptation to new regions or unseen traffic patterns.
+  *MKDnet* is a multi-scale knowledge distillation framework for improving spatiotemporal forecasting in traffic and mobility networks. To address challenges like sparse data and domain shifts, it employs a hierarchical student–teacher architecture that transfers informative representations across spatial, temporal, and task levels. The high-capacity teacher captures long-range spatiotemporal patterns, while the lightweight student learns through both **representation-level** and **prediction-level** distillation. By integrating **graph convolutional networks (GCNs)** and **temporal modules** (e.g., GRUs or attention), *MKDnet* effectively models dynamic graph structures. Its **multi-level supervision**—from features to outputs—enhances generalization to unseen regions and patterns.
   
   ![MKDnet Workflow](/assets/images/mkdnet_workflow.jpg)
-
 
 
 - **NetPag**  
