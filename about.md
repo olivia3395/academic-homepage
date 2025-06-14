@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: "About Me"
 permalink: /about/
 ---
@@ -32,17 +32,6 @@ permalink: /about/
 📈 When statistics gets tangled with storytelling, unexpected beauty unfolds.  
 🎨 From the elegance of proofs to the thrill of a good photo angle—there’s art in every analysis.
 
-
-
----
-
-### 🧠 Research Interests
-
-- Statistical machine learning & nonparametric inference  
-- Transfer learning under distributional and structural shifts  
-- Graph and hypergraph modeling  
-- Theoretical guarantees for real-world learning pipelines  
-- Robust estimation in small-sample and non-IID settings
 
 ---
 
