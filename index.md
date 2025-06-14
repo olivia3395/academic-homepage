@@ -2,7 +2,7 @@
 layout: home
 author_profile: true
 classes: wide
-title: "Welcome to Yuyao's Notebook"
+title: "Statistical Frontiers in a Structured World""
 excerpt: "A PhD student's journey through statistics."
 header:
   overlay_image: /assets/images/banner.jpg
@@ -10,20 +10,30 @@ header:
   caption: "Exploring theory, code, and applications"
 show_excerpts: false  
 entries_layout: list  
+classes: wide
 ---
 
-
+<!-- Custom font styling for homepage -->
 <style>
+.splash .page__content p,
+.page__content p,
 .archive__item-excerpt,
-.archive__item-body,
-.page__content p {
+.archive__item-body {
   font-family: "Georgia", serif;
   font-size: 18px;
   line-height: 1.7;
   color: #2a2a2a;
   margin-bottom: 1.2em;
 }
+
+.page__title {
+  font-family: "Georgia", serif;
+  font-size: 32px;
+  font-weight: 500;
+}
 </style>
+
+
 
 
 **Ph.D. Candidate**  
