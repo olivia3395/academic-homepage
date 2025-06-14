@@ -45,6 +45,7 @@ Art and music were central to my upbringing. I trained in **piano**, **vocal per
 
 Reading became my quiet rebellion and lifelong companion. Whether it was Tang poetry or modern prose, fiction or essays, I found joy in **language’s ability to build bridges—between people, cultures, or simply moments of thought**. 
 
+Of course, not everything in life is smooth sailing—especially when it involves heights or water! I have a **serious fear of heights** and have yet to conquer my lifelong inability to **swim**. Still, I believe every fear has a story, and someday I might trade my panic for paddling—just... not today! 
 
 ---
 
