@@ -50,9 +50,7 @@ Reading became my quiet rebellion and lifelong companion. Whether it was Tang po
 
 ### 🧮 My Mathematical Detour
 
-My journey into statistics didn’t begin with data—it began with **prime numbers and proofs**. As an undergrad, I was enchanted by the elegance of **number theory**, chasing the mysterious behavior of integers like they were wild animals in a dense forest. I once spent weeks fascinated by the Chinese Remainder Theorem, convinced it held secrets to the universe (or at least to my next exam). Later, my mathematical compass pointed toward **financial mathematics**, where I dove into the deep waters of **forward-backward stochastic differential equations (FBSDEs)** for my thesis. It was thrilling and chaotic—like solving puzzles in the dark with a candle made of Itô calculus.
-
-Eventually, I found my intellectual home in **statistics**: a place where rigor meets randomness, and where math has room to dance with the real world. These days, I bring that same proof-loving precision into messy, structured data—whether it’s graphs, signals, or networks with personality.
+My journey into statistics didn’t begin with data—it began with **prime numbers and proofs**. Later, my mathematical compass pointed toward **financial mathematics**, where I dove into the deep waters of **forward-backward stochastic differential equations (FBSDEs)** for my thesis. Eventually, I found my intellectual home in **statistics**: a place where rigor meets randomness, and where math has room to dance with the real world. These days, I bring that same proof-loving precision into messy, structured data—whether it’s graphs, signals, or networks with personality.
 
 From primes to probabilities, it’s been quite the ride—and I’m still loving the curveballs.
 
