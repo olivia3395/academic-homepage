@@ -4,7 +4,10 @@ title: "About Me"
 permalink: /about/
 ---
 
-Hi! I’m **Yuyao Wang (王宇瑶)**, a curious mind shaped equally by statistics and storytelling, theory and aesthetics.  
+✨ Dancing between equations and creativity, where data meets design and insight sparks joy.  
+🧠 Drawn to patterns, grounded in theory, and always chasing the next “aha” moment—whether on paper or a forest trail.  
+📈 When statistics gets tangled with storytelling, unexpected beauty unfolds.  
+🎨 From the elegance of proofs to the thrill of a good photo angle—there’s art in every analysis.
 
 ---
 
