@@ -1,18 +1,31 @@
 ---
-layout: single
+layout: splash
 title: "Projects"
 permalink: /projects/
 ---
 
 
+
+<!-- Custom font styling for homepage -->
 <style>
-.page__content p {
+.splash .page__content p,
+.page__content p,
+.archive__item-excerpt,
+.archive__item-body {
   font-family: "Georgia", serif;
-  font-size: 17px;
+  font-size: 18px;
   line-height: 1.7;
   color: #2a2a2a;
+  margin-bottom: 1.2em;
+}
+
+.page__title {
+  font-family: "Georgia", serif;
+  font-size: 32px;
+  font-weight: 500;
 }
 </style>
+
 
 
 
