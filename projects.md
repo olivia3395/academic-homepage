@@ -27,11 +27,9 @@ permalink: /projects/
 
 - **MKDnet: Multi-level Knowledge Distillation for Spatiotemporal Graph Forecasting**
 
-*MKDnet* is a multi-scale knowledge distillation framework designed to enhance spatiotemporal forecasting in traffic and mobility networks. While existing models often struggle to generalize under sparse data or domain shifts, *MKDnet* introduces a hierarchical student-teacher architecture to transfer useful representations across time, space, and task levels. The teacher model operates at a high-capacity level, capturing long-term spatial-temporal dependencies with rich graph signals. Meanwhile, the student model is lightweight and fast, trained under the guidance of the teacher through **representation-level** and **prediction-level** distillation losses.
-
-The framework further integrates **graph convolutional networks (GCNs)** and **temporal modeling modules** (such as GRUs or attention mechanisms) to capture dynamic topological changes. A key innovation is the use of **multi-level supervision**—including feature, hidden, and output states—allowing the student to learn not just final predictions but also intermediate behaviors. This ensures better adaptation to new regions or unseen traffic patterns.
-
-![MKDnet Workflow](/assets/images/mkdnet_workflow.jpg)
+  *MKDnet* is a multi-scale knowledge distillation framework designed to enhance spatiotemporal forecasting in traffic and mobility networks. While existing models often struggle to generalize under sparse data or domain shifts, *MKDnet* introduces a hierarchical student-teacher architecture to transfer useful representations across time, space, and task levels. The teacher model operates at a high-capacity level, capturing long-term spatial-temporal dependencies with rich graph signals. Meanwhile, the student model is lightweight and fast, trained under the guidance of the teacher through **representation-level** and **prediction-level** distillation losses. The framework further integrates **graph convolutional networks (GCNs)** and **temporal modeling modules** (such as GRUs or attention mechanisms) to capture dynamic topological changes. A key innovation is the use of **multi-level supervision**—including feature, hidden, and output states—allowing the student to learn not just final predictions but also intermediate behaviors. This ensures better adaptation to new regions or unseen traffic patterns.
+  
+  ![MKDnet Workflow](/assets/images/mkdnet_workflow.jpg)
 
 
 
