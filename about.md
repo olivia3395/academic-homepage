@@ -37,3 +37,23 @@ These creative and physical outlets keep me grounded and curious—much like the
 
 ---
 
+### 📚 Pre-Ph.D. Research Experience
+
+Before beginning my Ph.D., I was fortunate to engage in several interdisciplinary research projects spanning **urban science**, **deep generative modeling**, **theoretical machine learning**, and **remote sensing for climate resilience**. These formative experiences not only sharpened my quantitative skills but also nurtured a strong intuition for connecting theory to real-world challenges.
+
+- **Tsinghua University** — *Spatial Urban Growth Modeling* 
+  Collaborated with urban planners and geospatial scientists to develop predictive models of land-use change in rapidly urbanizing regions. I built spatial econometric models (SAR, SLM) and deep spatiotemporal networks (Conv-LSTM) that incorporated both satellite-derived maps and demographic indicators. The resulting system offered quantitative insights into the evolution of built-up land, supporting long-term planning decisions for public infrastructure, transit development, and ecological conservation.
+
+- **Tsinghua University** — *Generative AI for Urban Design*   
+  As part of a project exploring AI-human collaboration in design workflows, I created a Conditional GAN architecture to generate plausible urban block layouts conditioned on zoning constraints. The project uniquely fused design thinking with machine learning, introducing a refinement loop where human architects could adjust or override generative outputs. This work inspired my enduring interest in *human-in-the-loop systems*, as well as in aligning ML outputs with social, aesthetic, and regulatory criteria.
+
+- **Peking University** — *Advancing Normalizing Flows* 
+  At the interface of theory and application, I investigated how to enhance the expressiveness of **Normalizing Flow models** through new invertible transformations. I derived theoretical guarantees for approximation quality and invertibility under high-dimensional settings, and applied the framework to synthetic benchmarks and simulation data from physics and biology. This experience deepened my understanding of **density modeling**, **manifold learning**, and **Bayesian generative inference**, forming the basis for my current work on transfer learning with distributional shifts.
+
+- **Chinese Academy of Sciences (CAS)** — *Multi-Modal Fusion for Disaster Forecasting*
+  Working at the Institute of Remote Sensing and Digital Earth, I led the development of a multi-modal flood prediction system that fused **satellite imagery**, **sensor networks**, and **topological river maps**. I designed deep learning pipelines using U-Net, CNN-LSTM, and GNNs to capture spatiotemporal patterns of precipitation and water levels, validated against historical flood events in Southeast Asia. The resulting system contributed to national early-warning platforms, helping policymakers assess risk and allocate emergency resources more effectively.
+
+
+
+
+
