@@ -1,6 +1,7 @@
 ---
 layout: home
 author_profile: true
+classes: wide
 title: "Welcome to Yuyao's Notebook"
 excerpt: "A PhD student's journey through statistics."
 header:
