@@ -39,7 +39,7 @@ permalink: /about/
 
 I grew up in **Jinan, China**—a city poetically known as *“the City of Springs”*, where clear artesian waters ripple through willow-lined streets and stone bridges. It’s a place steeped in **natural beauty**, **literary tradition**, and **a calm, steady rhythm** that shaped my early years. The sounds of gurgling springs, street vendors selling candied hawthorn, and children’s laughter in banyan-shaded courtyards form a soundtrack I still carry with me.
 
-I was fortunate to be surrounded by a warm and encouraging family—my parents, both teachers, nurtured my curiosity with stacks of books and open-ended questions. My closest childhood friends were the kind you share secret notebooks with. 
+I was fortunate to be surrounded by a warm and encouraging family—my parents nurtured my curiosity with stacks of books and open-ended questions. My closest childhood friends were the kind you share secret notebooks with. In my spare time, I’m a devoted fan of **Mandarin R&B**—I grew up listening to the smooth vocals of **Leehom Wang**, **David Tao**, and **Khalil Fong**, and I still get a rush of nostalgia whenever those classic tracks come on. 
 
 Art and music were central to my upbringing. I trained in **piano**, **vocal performance**, **ink painting**, **Chinese calligraphy**, and **creative writing** for many years—forms that taught me not just technique, but patience, precision, and the beauty of structure. I spent countless quiet evenings practicing scales or composing short stories, often lost in a world of rhythm and narrative.
 
