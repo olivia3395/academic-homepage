@@ -1,15 +1,12 @@
 ---
-layout: home
-author_profile: true
-classes: wide
-title: "Statistical Frontiers in a Structured World""
+layout: splash
+title: "Statistical Frontiers in a Structured World"
 excerpt: "A PhD student's journey through statistics."
 header:
   overlay_image: /assets/images/banner.jpg
   overlay_filter: 0.3
   caption: "Exploring theory, code, and applications"
-show_excerpts: false  
-entries_layout: list  
+permalink: /
 classes: wide
 ---
 
