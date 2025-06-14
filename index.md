@@ -15,7 +15,7 @@ Department of Statistics, Boston University
 Boston, MA, USA
 
 Email: yuyaow@bu.edu  
-[GitHub](https://github.com/olivia3395) | [LinkedIn](https://www.linkedin.com/in/yuyao-w-990571191) | [Google Scholar](https://scholar.google.co.uk/citations?user=a2sHceIAAAAJ&hl=en)
+[GitHub](https://github.com/olivia3395) | [LinkedIn](https://www.linkedin.com/in/yuyao-w-990571191) | [Google Scholar]()
 
 ---
 
