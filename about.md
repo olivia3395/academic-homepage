@@ -1,13 +1,40 @@
 ---
-layout: single
+layout: splash
 title: "About Me"
 permalink: /about/
 ---
+
+
+<!-- Custom font styling for homepage -->
+<style>
+.splash .page__content p,
+.page__content p,
+.archive__item-excerpt,
+.archive__item-body {
+  font-family: "Georgia", serif;
+  font-size: 18px;
+  line-height: 1.7;
+  color: #2a2a2a;
+  margin-bottom: 1.2em;
+}
+
+.page__title {
+  font-family: "Georgia", serif;
+  font-size: 32px;
+  font-weight: 500;
+}
+</style>
+
+
+
+
 
 ✨ Dancing between equations and creativity, where data meets design and insight sparks joy.  
 🧠 Drawn to patterns, grounded in theory, and always chasing the next “aha” moment—whether on paper or a forest trail.  
 📈 When statistics gets tangled with storytelling, unexpected beauty unfolds.  
 🎨 From the elegance of proofs to the thrill of a good photo angle—there’s art in every analysis.
+
+
 
 ---
 
