@@ -12,6 +12,18 @@ header:
 
 
 
+<!-- Custom styling for homepage bio -->
+<style>
+.page__content p {
+  font-family: "Georgia", serif;
+  font-size: 18px;
+  line-height: 1.7;
+  color: #2a2a2a;
+  margin-bottom: 1.2em;
+}
+</style>
+
+
 
 **Ph.D. Candidate**  
 Department of Statistics, Boston University  
