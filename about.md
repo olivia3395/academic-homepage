@@ -48,7 +48,24 @@ permalink: /about/
 
 ### 🌿 My Story
 
-I was born and raised in **Jinan, China**, a city known for its natural springs and literary heritage. From a young age, I was immersed in a rich artistic and intellectual environment. I studied **piano**, **vocal music**, **drawing**, **Chinese calligraphy**, and **creative writing** for many years—training that shaped both my sense of discipline and appreciation for aesthetic structure. Reading has always been a quiet passion of mine. Whether it’s classical literature or modern essays, I find deep joy in language and storytelling—skills I carry with me into both writing and data science.
+I grew up in **Jinan, China**—a city poetically known as *“the City of Springs”*, where clear artesian waters ripple through willow-lined streets and stone bridges. It’s a place steeped in **natural beauty**, **literary tradition**, and **a calm, steady rhythm** that shaped my early years. The sounds of gurgling springs, street vendors selling candied hawthorn, and children’s laughter in banyan-shaded courtyards form a soundtrack I still carry with me.
+
+I was fortunate to be surrounded by a warm and encouraging family—my parents, both teachers, nurtured my curiosity with stacks of books and open-ended questions. My closest childhood friends were the kind you share secret notebooks with. 
+
+Art and music were central to my upbringing. I trained in **piano**, **vocal performance**, **ink painting**, **Chinese calligraphy**, and **creative writing** for many years—forms that taught me not just technique, but patience, precision, and the beauty of structure. I spent countless quiet evenings practicing scales or composing short stories, often lost in a world of rhythm and narrative.
+
+Reading became my quiet rebellion and lifelong companion. Whether it was Tang poetry or modern prose, fiction or essays, I found joy in **language’s ability to build bridges—between people, cultures, or simply moments of thought**. 
+
+
+---
+
+### 🧮 My Mathematical Detour
+
+My journey into statistics didn’t begin with data—it began with **prime numbers and proofs**. As an undergrad, I was enchanted by the elegance of **number theory**, chasing the mysterious behavior of integers like they were wild animals in a dense forest. I once spent weeks fascinated by the Chinese Remainder Theorem, convinced it held secrets to the universe (or at least to my next exam). Later, my mathematical compass pointed toward **financial mathematics**, where I dove into the deep waters of **forward-backward stochastic differential equations (FBSDEs)** for my thesis. It was thrilling and chaotic—like solving puzzles in the dark with a candle made of Itô calculus.
+
+Eventually, I found my intellectual home in **statistics**: a place where rigor meets randomness, and where math has room to dance with the real world. These days, I bring that same proof-loving precision into messy, structured data—whether it’s graphs, signals, or networks with personality.
+
+From primes to probabilities, it’s been quite the ride—and I’m still loving the curveballs.
 
 ---
 
@@ -65,16 +82,16 @@ These creative and physical outlets keep me grounded and curious—much like the
 Before beginning my Ph.D., I was fortunate to engage in several interdisciplinary research projects spanning **urban science**, **deep generative modeling**, **theoretical machine learning**, and **remote sensing for climate resilience**. These formative experiences not only sharpened my quantitative skills but also nurtured a strong intuition for connecting theory to real-world challenges.
 
 - **Tsinghua University** — *Spatial Urban Growth Modeling* 
-  Collaborated with urban planners and geospatial scientists to develop predictive models of land-use change in rapidly urbanizing regions. I built spatial econometric models (SAR, SLM) and deep spatiotemporal networks (Conv-LSTM) that incorporated both satellite-derived maps and demographic indicators. The resulting system offered quantitative insights into the evolution of built-up land, supporting long-term planning decisions for public infrastructure, transit development, and ecological conservation.
+  Collaborated with urban planners and geospatial scientists to develop predictive models of land-use change in rapidly urbanizing regions. I built spatial econometric models and deep spatiotemporal networks that incorporated both satellite-derived maps and demographic indicators. The resulting system offered quantitative insights into the evolution of built-up land, supporting long-term planning decisions for public infrastructure, transit development, and ecological conservation.
 
 - **Tsinghua University** — *Generative AI for Urban Design*   
   As part of a project exploring AI-human collaboration in design workflows, I created a Conditional GAN architecture to generate plausible urban block layouts conditioned on zoning constraints. The project uniquely fused design thinking with machine learning, introducing a refinement loop where human architects could adjust or override generative outputs.
 
 - **Peking University** — *Advancing Normalizing Flows* 
-  At the interface of theory and application, I investigated how to enhance the expressiveness of **Normalizing Flow models** through new invertible transformations. I derived theoretical guarantees for approximation quality and invertibility under high-dimensional settings, and applied the framework to synthetic benchmarks and simulation data from physics and biology.
+  At the interface of theory and application, I investigated how to enhance the expressiveness of Normalizing Flow models through new invertible transformations. I derived theoretical guarantees for approximation quality and invertibility under high-dimensional settings, and applied the framework to synthetic benchmarks and simulation data.
   
 - **Chinese Academy of Sciences (CAS)** — *Multi-Modal Fusion for Disaster Forecasting*
-  Working at the Institute of Remote Sensing and Digital Earth, I led the development of a multi-modal flood prediction system that fused **satellite imagery**, **sensor networks**, and **topological river maps**. I designed deep learning pipelines using U-Net, CNN-LSTM, and GNNs to capture spatiotemporal patterns of precipitation and water levels, validated against historical flood events in Southeast Asia. The results contributed to national early-warning platforms, helping policymakers assess risk and allocate emergency resources more effectively.
+  Working at the Institute of Remote Sensing and Digital Earth, I led the development of a multi-modal flood prediction system that fused satellite imagery, sensor networks, and topological river maps. I designed deep learning pipelines using U-Net, CNN-LSTM, and GNNs to capture spatiotemporal patterns of precipitation and water levels, validated against historical flood events in China. The results contributed to national early-warning platforms, helping policymakers assess risk and allocate emergency resources more effectively.
 
 
 
