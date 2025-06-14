@@ -2,7 +2,7 @@
 layout: home
 author_profile: true
 title: "Welcome to Yuyao's Notebook"
-excerpt: "A PhD student's journey through statistics, data science, and machine learning."
+excerpt: "A PhD student's journey through statistics."
 header:
   overlay_image: /assets/images/banner.jpg
   overlay_filter: 0.3
@@ -29,7 +29,6 @@ My work blends ideas from mathematical statistics, machine learning, and network
 Before joining BU, I earned my M.A. in Statistics from **Columbia University**, and received my B.S. in Mathematics from **Shandong University** as part of the Hua Loo-Keng Talent Program, in collaboration with the Chinese Academy of Sciences.
 
 📬 Feel free to reach out for discussions or collaborations!
-
 
 ---
 
