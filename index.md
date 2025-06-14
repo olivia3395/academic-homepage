@@ -8,6 +8,7 @@ header:
   caption: "Exploring theory, code, and applications"
 permalink: /
 classes: wide
+author_profile: true
 ---
 
 <!-- Custom font styling for homepage -->
