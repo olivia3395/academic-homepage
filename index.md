@@ -33,4 +33,4 @@ Before joining BU, I earned my M.A. in Statistics from **Columbia University**, 
 
 ---
 
-👉 Check out my latest [posts](/blog/), browse [projects](/projects/), or read more [about me](/about/).
+👉 Check out my browse [projects](/projects/), or read more [about me](/about/).
