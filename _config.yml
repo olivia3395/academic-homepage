@@ -12,6 +12,10 @@ repository: "olivia3395/olivia3395.github.io"
 logo: "/assets/images/bio-photo.jpg"
 masthead_title: "Yuyao Wang"
 
+sass:
+  style: compressed
+
+
 author:
   name: "Yuyao Wang"
   avatar: "/assets/images/bio-photo.jpg"
@@ -58,14 +62,19 @@ paginate_path: /page:num/
 defaults:
   - scope:
       path: ""
-      type: posts
     values:
+       css: "/assets/css/custom.css"
       layout: single
       author_profile: true
       read_time: true
       comments: false
       share: true
       related: true
+
+
+
+
+
 
 search: true
 search_provider: lunr
