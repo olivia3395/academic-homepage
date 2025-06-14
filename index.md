@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: "Statistical Frontiers in a Structured World"
 excerpt: "A PhD student's journey through statistics."
 header:
