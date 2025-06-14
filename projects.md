@@ -19,7 +19,6 @@ permalink: /projects/
 - **Adaptive Source Selection**  
   Lepski’s method-based estimator for covariate shift with minimax-optimal risk bounds.
 
-- **Urban Growth Modeling**  
-  SAR, SLM, and Conv-LSTM models for spatial land-use forecasting.
+
 
 👉 More at [GitHub](https://github.com/olivia3395)
