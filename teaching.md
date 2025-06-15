@@ -27,16 +27,22 @@ Teaching has been a core part of my academic life, and I strive to create a supp
 
 I'm thrilled to share that I was awarded the **Best Teaching Assistant Award** at Boston University!  
 
-<p align="center">
-  <img src="/assets/images/best_ta_award_announcement.jpg" alt="BU Teaching Award Feature" style="width:70%; margin-bottom: 15px;"><br>
-  <em>📣 Featured in BU’s official teaching spotlight.</em>
-</p>
 
-<p align="center">
-  <img src="/assets/images/best_ta_award_certificate.jpg" alt="Best TA Certificate" style="width:55%; margin-top: 10px;">
-  <br><em>📜 Official certificate for Best TA Award.</em>
-</p>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
+  <div style="text-align: center;">
+    <img src="/assets/images/best_ta_award_announcement.jpg" alt="BU Teaching Award Feature" style="width:300px; border-radius: 8px;">
+    <br>
+    <em>📣 Featured in BU’s teaching spotlight</em>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/images/best_ta_award_certificate.jpg" alt="Best TA Certificate" style="width:300px; border-radius: 8px;">
+    <br>
+    <em>📜 Official certificate of the Best TA Award</em>
+  </div>
+
+</div>
 
 ---
 
