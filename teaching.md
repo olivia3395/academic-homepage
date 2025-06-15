@@ -5,11 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-
 <!-- Custom font styling for homepage -->
 <style>
-.splash .page__content p,
 .page__content p,
+.page__content li,
+.page__content strong,
+.page__content em,
 .archive__item-excerpt,
 .archive__item-body {
   font-family: "Georgia", serif;
@@ -25,7 +26,6 @@ author_profile: true
   font-weight: 500;
 }
 </style>
-
 
 
 
