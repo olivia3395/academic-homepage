@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "News"
-permalink: /news/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
 ---
 
