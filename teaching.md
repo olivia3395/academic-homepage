@@ -17,10 +17,7 @@ Since joining Boston University, I’ve had the pleasure of serving as a **Teach
 - **MA 213** — Basic Statistics and Probability  
 - **MA 582** — Mathematical Statistics
 
-I’ve supported students through lectures, office hours, exam reviews, and hands-on coding practice using R and Python. In recognition of my contributions, I was honored to receive the **Best TA Award**—an acknowledgment I’m deeply grateful for.
-
-Teaching has been a core part of my academic life, and I strive to create a supportive and engaging learning environment where students feel comfortable asking questions and exploring ideas.
-
+I’ve supported students through lectures, discussions, office hours, exam reviews, and hands-on coding practice using R and Python. Teaching has been a core part of my academic life, and I strive to create a supportive and engaging learning environment where students feel comfortable asking questions and exploring ideas.
 
 
 ### 🏅 Best TA Award at Boston University
