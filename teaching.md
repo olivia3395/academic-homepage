@@ -46,6 +46,23 @@ author_profile: true
 </style>
 
 
+<style>
+.page__content ul,
+.page__content ol,
+.page__content li,
+.page__content li strong {
+  font-family: "Georgia", serif !important;
+  font-size: 18px !important;
+  line-height: 1.7;
+  color: #2a2a2a;
+}
+
+.page__content strong {
+  font-family: "Georgia", serif !important;
+  font-weight: bold;
+}
+</style>
+
 
 
 
