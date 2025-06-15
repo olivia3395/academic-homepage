@@ -1,8 +1,71 @@
 ---
+layout: single
 title: "Industry Experience"
 permalink: /industry/
-layout: single
---------------
+author_profile: true
+---
+<style>
+.page__content p,
+.page__content li,
+.page__content strong,
+.page__content em,
+.archive__item-excerpt,
+.archive__item-body {
+  font-family: "Georgia", serif;
+  font-size: 18px;
+  line-height: 1.7;
+  color: #2a2a2a;
+  margin-bottom: 1.2em;
+}
+
+.page__title {
+  font-family: "Georgia", serif;
+  font-size: 32px;
+  font-weight: 500;
+}
+
+
+.page__content figure {
+  text-align: center;
+  margin: 2em auto;
+}
+
+.page__content figure img {
+  border-radius: 8px;
+  max-width: 100%;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+.page__content figure figcaption {
+  font-family: "Georgia", serif;
+  font-size: 16px;
+  color: #555;
+  font-style: italic;
+  margin-top: 0.5em;
+}
+</style>
+
+
+<style>
+.page__content ul,
+.page__content ol,
+.page__content li,
+.page__content li strong {
+  font-family: "Georgia", serif !important;
+  font-size: 18px !important;
+  line-height: 1.7;
+  color: #2a2a2a;
+}
+
+.page__content strong {
+  font-family: "Georgia", serif !important;
+  font-weight: bold;
+}
+</style>
+
+
+
+
 
 
 
