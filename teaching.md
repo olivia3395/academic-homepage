@@ -85,22 +85,22 @@ I’ve supported students through lectures, discussions, office hours, exam revi
 
 I'm thrilled to share that I was awarded the **Best Teaching Assistant Award** at Boston University!  
 
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: nowrap; max-width: 700px; margin: auto;">
 
   <div style="text-align: center;">
     <img src="/assets/images/best_ta_award_announcement.jpg" alt="BU Teaching Award Feature" style="width:300px; border-radius: 8px;">
     <br>
-    <em>📣 Featured in BU’s teaching spotlight</em>
+    <em style="font-family: Georgia, serif; font-size: 15px;">📣 Featured in BU’s teaching spotlight</em>
   </div>
 
   <div style="text-align: center;">
     <img src="/assets/images/best_ta_award_certificate.jpg" alt="Best TA Certificate" style="width:300px; border-radius: 8px;">
     <br>
-    <em>📜 Official certificate of the Best TA Award</em>
+    <em style="font-family: Georgia, serif; font-size: 15px;">📜 Official certificate of the Best TA Award</em>
   </div>
 
 </div>
+
 
 ---
 
