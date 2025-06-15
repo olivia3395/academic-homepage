@@ -6,6 +6,29 @@ author_profile: true
 ---
 
 
+<!-- Custom font styling for homepage -->
+<style>
+.splash .page__content p,
+.page__content p,
+.archive__item-excerpt,
+.archive__item-body {
+  font-family: "Georgia", serif;
+  font-size: 18px;
+  line-height: 1.7;
+  color: #2a2a2a;
+  margin-bottom: 1.2em;
+}
+
+.page__title {
+  font-family: "Georgia", serif;
+  font-size: 32px;
+  font-weight: 500;
+}
+</style>
+
+
+
+
 ### 🎓 Teaching Experience
 
 Since joining Boston University, I’ve had the pleasure of serving as a **Teaching Assistant** for multiple undergraduate and graduate-level statistics courses. I enjoy helping students build mathematical intuition and confidence in applying statistical methods across theory and practice.
