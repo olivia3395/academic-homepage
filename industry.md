@@ -71,7 +71,7 @@ author_profile: true
 
 ### 💼 Industry Experience
 
-##### Quantitative Analyst, Guotai Junan Securities Co., Ltd 
+#### Quantitative Analyst, Guotai Junan Securities Co., Ltd 
 
 As a summer intern in the **Derivatives Research Division**, I explored cross-asset trading strategies and risk modeling:
 
@@ -81,7 +81,7 @@ As a summer intern in the **Derivatives Research Division**, I explored cross-as
 
 ---
 
-##### Analyst, Investment Banking Division, Shanghai Pudong Development Bank 
+#### Analyst, Investment Banking Division, Shanghai Pudong Development Bank 
 
 During my internship in the **Investment Banking Division**, I supported fixed-income issuance and risk modeling:
 
