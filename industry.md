@@ -73,4 +73,4 @@ author_profile: true
   Worked within the **Investment Banking Division**, supporting corporate bond issuance and structured financing projects. Conducted industry benchmark analysis and estimated yield curves using the **Nelson-Siegel** and **Svensson** models. Built valuation models for customized products using **Monte Carlo simulations**, and employed **GARCH**, **VaR**, and **CVaR** methodologies for internal volatility and risk forecasting.
 
 
-📍 For a full list of my projects and academic research, please see the Projects and About Me sections.
+📍 For a full list of my projects and academic research, please see [projects](/projects/), [teaching](/teaching/), and [about me](/about/) pages.
