@@ -72,5 +72,5 @@ author_profile: true
 - **Shanghai Pudong Development Bank (SPDB)** · *Investment Banking Analyst Intern*  
   Worked within the **Investment Banking Division**, supporting corporate bond issuance and structured financing projects. Conducted industry benchmark analysis and estimated yield curves using the **Nelson-Siegel** and **Svensson** models. Built valuation models for customized products using **Monte Carlo simulations**, and employed **GARCH**, **VaR**, and **CVaR** methodologies for internal volatility and risk forecasting.
 
-👉 Return to [home](/) or explore [projects](/projects/), [teaching](/teaching/), and [about](/about/) pages.
 
+📍 For a full list of my projects and academic research, please see the Projects and About Me sections.
