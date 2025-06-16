@@ -12,7 +12,7 @@ author_profile: true
 .archive__item-excerpt,
 .archive__item-body {
   font-family: "Georgia", serif;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.7;
   color: #2a2a2a;
   margin-bottom: 1.2em;
@@ -20,7 +20,7 @@ author_profile: true
 
 .page__title {
   font-family: "Georgia", serif;
-  font-size: 32px;
+  font-size: 28px;
   font-weight: 500;
 }
 
