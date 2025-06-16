@@ -67,11 +67,9 @@ author_profile: true
 ### 💼 Industry Experience
 
 - **Guotai Junan Securities** · *Quantitative Analyst Intern*  
-  *Shanghai, China · Jun – Aug 2021*  
   Applied feature selection techniques such as **Boruta** and **Lasso**, combined with **Bayesian inference**, to detect trading signals in equity datasets. Developed **Monte Carlo simulation pipelines** for pricing structured financial products including swaps and path-dependent options. Leveraged **XGBoost** and **LightGBM** to refine volatility spread predictions, assisting the derivatives desk in optimizing structured note design and issuance strategies.
 
 - **Shanghai Pudong Development Bank (SPDB)** · *Investment Banking Analyst Intern*  
-  *Shanghai, China · Jun – Aug 2019*  
   Worked within the **Investment Banking Division**, supporting corporate bond issuance and structured financing projects. Conducted industry benchmark analysis and estimated yield curves using the **Nelson-Siegel** and **Svensson** models. Built valuation models for customized products using **Monte Carlo simulations**, and employed **GARCH**, **VaR**, and **CVaR** methodologies for internal volatility and risk forecasting.
 
 👉 Return to [home](/) or explore [projects](/projects/), [teaching](/teaching/), and [about](/about/) pages.
