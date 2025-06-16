@@ -94,7 +94,7 @@ I'm thrilled to share that I was awarded the **Best Teaching Assistant Award** a
     </td>
     <td>
       <img src="/assets/images/best_ta_award_certificate.jpg" alt="Best TA Certificate" style="width:300px; border-radius: 8px;"><br>
-      <em style="font-family: Georgia, serif; font-size: 15px; color: #555;">📜 Official certificate of the Best TA Award</em>
+      <em style="font-family: Georgia, serif; font-size: 15px; color: #555;">📜 Certificate of the Best TA Award</em>
     </td>
   </tr>
 </table>
