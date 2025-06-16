@@ -64,27 +64,15 @@ author_profile: true
 </style>
 
 
-
 ### 💼 Industry Experience
 
-#### Quantitative Analyst, Guotai Junan Securities Co., Ltd 
+- **Guotai Junan Securities** · *Quantitative Analyst Intern*  
+  *Shanghai, China · Jun – Aug 2021*  
+  Applied feature selection techniques such as **Boruta** and **Lasso**, combined with **Bayesian inference**, to detect trading signals in equity datasets. Developed **Monte Carlo simulation pipelines** for pricing structured financial products including swaps and path-dependent options. Leveraged **XGBoost** and **LightGBM** to refine volatility spread predictions, assisting the derivatives desk in optimizing structured note design and issuance strategies.
 
-As a summer intern in the **Derivatives Research Division**, I explored cross-asset trading strategies and risk modeling:
+- **Shanghai Pudong Development Bank (SPDB)** · *Investment Banking Analyst Intern*  
+  *Shanghai, China · Jun – Aug 2019*  
+  Worked within the **Investment Banking Division**, supporting corporate bond issuance and structured financing projects. Conducted industry benchmark analysis and estimated yield curves using the **Nelson-Siegel** and **Svensson** models. Built valuation models for customized products using **Monte Carlo simulations**, and employed **GARCH**, **VaR**, and **CVaR** methodologies for internal volatility and risk forecasting.
 
-* Identified predictive trading signals by combining **Boruta feature selection**, **Lasso regression**, and **Bayesian model averaging**, aiming to uncover stable alpha sources across volatile equity sectors.
-* Contributed to the **pricing of structured financial products**, such as equity-linked swaps and options, using **Monte Carlo simulations** with refined path generation and scenario resampling.
-* Developed XGBoost and LightGBM models to **forecast option-implied spread movements**, aiding real-time pricing adjustments and trade execution timing.
+👉 Return to [home](/) or explore [projects](/projects/), [teaching](/teaching/), and [about](/about/) pages.
 
----
-
-#### Analyst, Investment Banking Division, Shanghai Pudong Development Bank 
-
-During my internship in the **Investment Banking Division**, I supported fixed-income issuance and risk modeling:
-
-* Conducted **industry benchmarking** and peer bond analysis for upcoming issuances, employing models like **Nelson-Siegel** and **Svensson** to simulate yield curves and evaluate bond pricing sensitivity under interest rate shifts.
-* Designed a **Monte Carlo pricing engine** for customized structured notes, adjusting volatility surfaces and scenario parameters to improve risk-adjusted return estimates.
-* Performed volatility modeling using **VaR, CVaR, and GARCH** frameworks, supporting internal stress testing and scenario analysis for the client portfolios.
-
----
-
-> 📍 For a full list of my projects and academic research, please see the [Projects](/projects/) and [About Me](/about/) sections.
