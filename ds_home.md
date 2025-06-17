@@ -40,7 +40,7 @@ Here's a selection of my favorite data science and machine learning projects. I 
   A VGG16/ResNet50-powered Flask app that classifies 120+ dog breeds. Achieved 75% accuracy on the Stanford Dogs dataset.
 
 - **💳 Credit Default Predictor** ([GitHub](https://github.com/olivia3395/credit-default-risk))  
-  Boosted recall to 91% with XGBoost + SMOTE. AUC: 0.976. Interpretable, scalable, and fast.
+  Boosted recall to 91% with XGBoost + SMOTE. AUC: 0.976. 
 
 - **🚶 Pedestrian Detection System** [GitHub](https://github.com/olivia3395)  
   Real-time tracking with **Fast-RCNN + Siamese CNN**.
@@ -85,7 +85,7 @@ Below are selected visuals, dashboards, and model outputs from my projects.
 
   <figure style="width: 300px; text-align: center;">
     <img src="/assets/images/ds_project_1.jpg" alt="Dog Classifier Demo" style="width: 100%; border-radius: 10px;">
-    <figcaption>📌 P1: Breed classification output (Flask app)</figcaption>
+    <figcaption>📌 P1: Breed classification</figcaption>
   </figure>
 
   <figure style="width: 300px; text-align: center;">
