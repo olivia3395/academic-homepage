@@ -4,11 +4,33 @@ title: "Data Science Projects"
 permalink: /ds_home/
 ---
 
-### 🧪 Featured Data Projects
+
+
+<!-- Custom font styling for homepage -->
+<style>
+.splash .page__content p,
+.page__content p,
+.archive__item-excerpt,
+.archive__item-body {
+  font-family: "Georgia", serif;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #2a2a2a;
+  margin-bottom: 1.2em;
+}
+
+.page__title {
+  font-family: "Georgia", serif;
+  font-size: 28px;
+  font-weight: 500;
+}
+</style>
+
+
+
+### Featured Data Projects
 
 Here's a selection of my favorite data science and machine learning projects. I love building end-to-end systems—from modeling to deployment—with an eye toward explainability, robustness, and creativity.
-
-👉 You can also check out more on my [GitHub](https://github.com/olivia3395)
 
 ---
 
