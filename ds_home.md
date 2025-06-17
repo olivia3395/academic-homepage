@@ -47,11 +47,6 @@ Here's a selection of my favorite data science and machine learning projects. I 
 
 - **Financial Sentiment Classifier** ([GitHub](https://github.com/olivia3395/finanial-text-analysis), [Demo](https://olivia3395.github.io/finanial-text-analysis/))  
   Fine-tuned DistilBERT for financial sentiment tagging. Fast and precise.
-  
-- **🐶 Dog Breed Classifier** [GitHub Repo](https://github.com/olivia3395/dog_identification_app) • [Live App](https://olivia3395.github.io/dog_identification_app/)  
-  Achieved **75% accuracy** on Stanford Dogs dataset using VGG16/ResNet50, deployed via Flask.
-- ** 💳 Credit Default Predictor**  [GitHub](https://github.com/olivia3395/credit-default-risk)  
-  Boosted recall to **91%** using XGBoost + SMOTE. AUC: **0.976**.
 
 - **🚶 Pedestrian Detection System** [GitHub](https://github.com/olivia3395)  
   Real-time tracking with **Fast-RCNN + Siamese CNN**.
@@ -85,7 +80,6 @@ Here's a selection of my favorite data science and machine learning projects. I 
 
 - **🎵 R&B Lyrics Analysis** [GitHub](https://github.com/olivia3395/R-B_Lyrics)  
   Analyzed 5K+ lyrics using **LDA** and **VADER sentiment analysis**.
-
 
 ---
 
