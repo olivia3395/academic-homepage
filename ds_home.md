@@ -39,14 +39,8 @@ Here's a selection of my favorite data science and machine learning projects. I 
 - **🐶 Dog Breed Classifier** ([GitHub](https://github.com/olivia3395/dog_identification_app), [Demo](https://olivia3395.github.io/dog_identification_app/))  
   A VGG16/ResNet50-powered Flask app that classifies 120+ dog breeds. Achieved 75% accuracy on the Stanford Dogs dataset.
 
-- **Credit Default Predictor** ([GitHub](https://github.com/olivia3395/credit-default-risk))  
+- **💳 Credit Default Predictor** ([GitHub](https://github.com/olivia3395/credit-default-risk))  
   Boosted recall to 91% with XGBoost + SMOTE. AUC: 0.976. Interpretable, scalable, and fast.
-
-- **Airbnb Booking Dashboard** ([GitHub](https://github.com/olivia3395/rshinyapp_airbnb), [Live App](https://yuyaowang.shinyapps.io/airbnb_app/))  
-  Interactive R Shiny dashboard with dynamic map visualizations based on scraped Airbnb data.
-
-- **Financial Sentiment Classifier** ([GitHub](https://github.com/olivia3395/finanial-text-analysis), [Demo](https://olivia3395.github.io/finanial-text-analysis/))  
-  Fine-tuned DistilBERT for financial sentiment tagging. Fast and precise.
 
 - **🚶 Pedestrian Detection System** [GitHub](https://github.com/olivia3395)  
   Real-time tracking with **Fast-RCNN + Siamese CNN**.
@@ -78,7 +72,7 @@ Here's a selection of my favorite data science and machine learning projects. I 
 - **🧑‍🤝‍🧑 Customer Segmentation** [GitHub](https://github.com/olivia3395/Customer_Segmentation)  
   Clustered user behavior using **KMeans + PCA**.
 
-- **🎵 R&B Lyrics Analysis** [GitHub](https://github.com/olivia3395/R-B_Lyrics)  
+- **🎵 RNB Lyrics Analysis** [GitHub](https://github.com/olivia3395/R-B_Lyrics)  
   Analyzed 5K+ lyrics using **LDA** and **VADER sentiment analysis**.
 
 ---
