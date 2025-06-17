@@ -106,9 +106,9 @@ Below are selected visuals, dashboards, and model outputs from my projects.
   </figure>
 
   <figure style="width: 300px; text-align: center;">
-    <img src="/assets/images/ds_project_3.jpg" alt="GradCAM Heatmap" style="width: 100%; border-radius: 10px;">
-    <figcaption>📌 P3: Mask detection with GradCAM</figcaption>
-  </figure>
+  <img src="/assets/images/ds_project_3.jpg" alt="Movie Recommendation System" style="width: 100%; border-radius: 10px;">
+  <figcaption>🎬 P3: Movie recommendation</figcaption>
+</figure>
 
   <figure style="width: 300px; text-align: center;">
     <img src="/assets/images/ds_project_4.jpg" alt="Sentiment Analysis Output" style="width: 100%; border-radius: 10px;">
