@@ -47,6 +47,13 @@ author_profile: true
 
 
 
+- **AMGCN: Attentive Multi-Scale Graph Convolution for Urban Forecasting**
+
+  *AMGCN* is a graph-based framework for spatiotemporal prediction in urban systems like traffic and air quality. It introduces an adaptive **multi-scale graph construction** mechanism that captures spatial heterogeneity by dynamically selecting neighborhood ranges per node. The model’s core is an **attentive multi-scale GCN layer**, which fuses information across different spatial scales with learned attention weights. Temporally, it integrates **GRUs** to track evolving patterns. Lightweight **node-level gating** and **feature fusion** further enhance its flexibility and robustness. *AMGCN* achieves strong performance under sparse or noisy conditions, offering a scalable and interpretable solution for dynamic urban forecasting.
+
+  ![AMGCN Workflow](/assets/images/amgcn_workflow.jpg)
+
+
 ### 🚧 Ongoing Projects
 
 - **Transfer Learning for Community Detection**
