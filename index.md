@@ -57,4 +57,4 @@ Before joining BU, I earned my M.A. in Statistics from **Columbia University**, 
 
 ---
 
-👉 Check out my [projects](/projects/), explore my [teaching](/teaching/) experience, browse my [industry work](/industry/), or read more [about me](/about/).
+👉 Check out my [research](/projects/), [data science projects](/ds/), explore my [teaching](/teaching/) experience, browse my [industry work](/industry/), or read more [about me](/about/).
