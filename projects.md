@@ -38,6 +38,14 @@ author_profile: true
 
   ![GraphonTrans Workflow](/assets/images/graphontrans_workflow.jpg)
 
+  - **Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds**
+
+  *PhaseShift* studies **nonparametric regression under covariate shift** when small labeled target data are supported by a large labeled source dataset, and the target covariates lie near a **low-dimensional manifold** within the source domain. Standard transfer methods often fail as density ratios may not exist or behave poorly in this setting. We establish **new minimax rates** for estimating Hölder class regression functions, revealing a **phase transition** governed by the target’s distance to the manifold, function smoothness, intrinsic and ambient dimensions, and source–target sample sizes. We propose a **local polynomial estimator** that attains the optimal rate across regimes, along with a **fully adaptive procedure** that adjusts to unknown smoothness and intrinsic dimension. Our results unify covariate shift, manifold learning, and adaptive nonparametric inference, providing sharp theoretical guarantees for structured, high-dimensional data.
+
+  ![PhaseShift Workflow](/assets/images/phaseshift_workflow.jpg)
+
+
+
 
 - **MKDnet: Multi-level Knowledge Distillation for Spatiotemporal Graph Forecasting**
 
