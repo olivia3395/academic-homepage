@@ -30,47 +30,49 @@ author_profile: true
 
 
 
-### 🔬 Research Projects
+### Research Projects
 
 
   - **Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds**
 
-  *PhaseShift* studies **nonparametric regression under covariate shift** when small labeled target data are supported by a large labeled source dataset, and the target covariates lie near a **low-dimensional manifold** within the source domain. Standard transfer methods often fail as density ratios may not exist or behave poorly in this setting. We establish **new minimax rates** for estimating Hölder class regression functions, revealing a **phase transition** governed by the target’s distance to the manifold, function smoothness, intrinsic and ambient dimensions, and source–target sample sizes. We propose a **local polynomial estimator** that attains the optimal rate across regimes, along with a **fully adaptive procedure** that adjusts to unknown smoothness and intrinsic dimension. Our results unify covariate shift, manifold learning, and adaptive nonparametric inference, providing sharp theoretical guarantees for structured, high-dimensional data. The paper is **under review at JASA** and available at [arXiv:2507.00889](https://arxiv.org/abs/2507.00889).
+We study **nonparametric regression under covariate shift** with scarce target data near a **low-dimensional manifold** and abundant high-dimensional source data. We establish **new minimax rates** showing a **phase transition** driven by smoothness, intrinsic vs. ambient dimension, and sample sizes. Our **local polynomial estimator** (with an adaptive version for unknown smoothness/dimension) achieves the optimal rate. This unifies covariate shift, manifold learning, and adaptive inference, with sharp guarantees. *Under review at JASA* [arXiv:2507.00889](https://arxiv.org/abs/2507.00889).
 
 
   ![PhaseShift Workflow](/assets/images/phaseshift_workflow.jpg)
 
 
-
-
 - **MKDnet: Multi-level Knowledge Distillation for Spatiotemporal Graph Forecasting**
+*MKDnet* is a **multi-scale knowledge distillation** framework for spatiotemporal forecasting in traffic and mobility networks. It uses a **hierarchical student–teacher architecture** to transfer knowledge across spatial, temporal, and task levels. The teacher captures **long-range patterns**, while the lightweight student learns via **representation- and prediction-level distillation**. By combining **GCNs** with temporal modules (GRUs/attention), and applying **multi-level supervision**, *MKDnet* generalizes well to unseen regions and patterns.
 
-  *MKDnet* is a multi-scale knowledge distillation framework for improving spatiotemporal forecasting in traffic and mobility networks. To address challenges like sparse data and domain shifts, it employs a hierarchical student–teacher architecture that transfers informative representations across spatial, temporal, and task levels. The high-capacity teacher captures long-range spatiotemporal patterns, while the lightweight student learns through both **representation-level** and **prediction-level** distillation. By integrating **graph convolutional networks (GCNs)** and **temporal modules** (e.g., GRUs or attention), *MKDnet* effectively models dynamic graph structures. Its **multi-level supervision**—from features to outputs—enhances generalization to unseen regions and patterns.
-  
+
   ![MKDnet Workflow](/assets/images/mkdnet_workflow.jpg)
 
 
 
 - **AMGCN: Attentive Multi-Scale Graph Convolution for Urban Forecasting**
 
-  *AMGCN* is a graph-based framework for spatiotemporal prediction in urban systems like traffic and air quality. It introduces an adaptive **multi-scale graph construction** mechanism that captures spatial heterogeneity by dynamically selecting neighborhood ranges per node. The model’s core is an **attentive multi-scale GCN layer**, which fuses information across different spatial scales with learned attention weights. Temporally, it integrates **GRUs** to track evolving patterns. Lightweight **node-level gating** and **feature fusion** further enhance its flexibility and robustness. *AMGCN* achieves strong performance under sparse or noisy conditions, offering a scalable and interpretable solution for dynamic urban forecasting.
+*AMGCN* is a **graph-based framework** for urban spatiotemporal prediction (traffic, air quality). It uses **adaptive multi-scale graph construction** to capture spatial heterogeneity and an **attentive multi-scale GCN** to fuse information across scales. With **GRUs** for temporal dynamics and **node-level gating** for robustness, *AMGCN* delivers scalable, interpretable forecasting under sparse or noisy conditions.
 
   ![AMGCN Workflow](/assets/images/amgcn_workflow.jpg)
 
 
-### 🚧 Ongoing Projects
+### Ongoing Projects
+
+
+
+
+- **Hypergraph-Augmented Knowledge Graph Embedding**
+- 
+We develop a **hybrid embedding framework** that fuses **knowledge graphs** with **hypergraph co-occurrence signals** to capture higher-order semantics. By integrating **hypergraph encodings into GNNs** (GCN/HyperGCN), it improves **link prediction** in sparse biomedical data for **drug discovery and disease treatment**.
+
+
+- **Network Varying Coefficient Models under Distribution Shift**
+
+We build a **functional regression framework for time-evolving networks**, capturing node responses across temporal and spatial dimensions. It leverages **cross-network transfer learning** guided by **structural similarity**, improving generalization in **non-stationary environments**.
 
 - **Transfer Learning for Community Detection**
 
-  This project focuses on developing a principled framework for transferring community detection knowledge from well-studied, high-resource graphs to structurally similar but data-scarce networks. By leveraging the latent modular structure and aligning key topological patterns, we aim to enhance interpretability and detection accuracy in low-sample regimes—such as marginalized communities or under-observed social systems. The work also explores connections to stochastic block models and robust optimization, with potential applications in areas like misinformation tracking and subgroup discovery.
-
-- **Hypergraph-Augmented Knowledge Graph Embedding**
-
-  Real-world knowledge often involves complex, higher-order interactions that are difficult to capture using pairwise relationships alone. This project introduces a hybrid embedding framework that combines knowledge graph link structures with hypergraph-based co-occurrence signals to better capture multi-entity semantics. The approach integrates hypergraph encodings into graph neural network architectures (e.g., GCN, HyperGCN), supporting more robust and expressive link prediction, especially in sparse and noisy biomedical datasets. Applications include drug discovery, disease treatment, and multi-relational reasoning under limited supervision.
-
-- **Network Varying Coefficient Models under Distribution Shift**
-  
-  Motivated by dynamic systems such as urban traffic and information diffusion, this project proposes a functional regression framework tailored for time-evolving networks. By modeling how node-level responses vary across both temporal and spatial dimensions, the method adapts to shifting domain structures through cross-network transfer learning. A key focus is on measuring structural similarity between source and target graphs to guide reliable information borrowing, ensuring improved generalization and adaptability in non-stationary environments.
+We develop a framework for **transferring community detection** from high-resource to data-scarce networks by aligning latent modular structures. It improves **interpretability and accuracy** in low-sample regimes, with links to **SBMs** and applications in **misinformation tracking** and **subgroup discovery**.
 
 
 👉 More at [GitHub](https://github.com/olivia3395)
