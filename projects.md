@@ -42,6 +42,7 @@ We study **nonparametric regression under covariate shift** with scarce target d
 
 
 - **MKDnet: Multi-level Knowledge Distillation for Spatiotemporal Graph Forecasting**
+
 *MKDnet* is a **multi-scale knowledge distillation** framework for spatiotemporal forecasting in traffic and mobility networks. It uses a **hierarchical student–teacher architecture** to transfer knowledge across spatial, temporal, and task levels. The teacher captures **long-range patterns**, while the lightweight student learns via **representation- and prediction-level distillation**. By combining **GCNs** with temporal modules (GRUs/attention), and applying **multi-level supervision**, *MKDnet* generalizes well to unseen regions and patterns.
 
 
