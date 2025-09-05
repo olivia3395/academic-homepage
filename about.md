@@ -26,11 +26,7 @@ permalink: /about/
 </style>
 
 
-
-✨ Dancing between equations and creativity, where data meets design and insight sparks joy.  
-🧠 Drawn to patterns, grounded in theory, and always chasing the next “aha” moment—whether on paper or a forest trail.  
-📈 When statistics gets tangled with storytelling, unexpected beauty unfolds.  
-🎨 From the elegance of proofs to the thrill of a good photo angle—there’s art in every analysis.
+✨Dancing between equations and creativity, I blend theory, data, and storytelling—finding art in every analysis.
 
 ---
 
