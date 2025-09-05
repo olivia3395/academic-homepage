@@ -32,14 +32,11 @@ permalink: /about/
 📈 When statistics gets tangled with storytelling, unexpected beauty unfolds.  
 🎨 From the elegance of proofs to the thrill of a good photo angle—there’s art in every analysis.
 
-
 ---
 
 ### My Story
 
-I grew up in **Jinan, China**, the *“City of Springs”*, surrounded by natural beauty, books, and a supportive family. My upbringing was shaped by **art and music**—from piano, calligraphy, and creative writing to a love of **Mandarin R\&B**. I’ve always found joy in **language and storytelling**, while photography, running, and travel keep me grounded today.
-
-Outside academia, I enjoy **video editing**, **long-distance running**, and **landscape/travel photography**. I also collect **fridge magnets** from my travels, often inspired by national parks and wild nature.
+I grew up in **Jinan, China**, the *“City of Springs”*, surrounded by natural beauty, books, and a supportive family. My upbringing was shaped by **art and music**—from piano, calligraphy, and creative writing to a love of **Mandarin R\&B**. I’ve always found joy in **language and storytelling**, while photography, running, and travel keep me grounded today. Outside academia, I enjoy **video editing**, **long-distance running**, and **landscape/travel photography**. I also collect **fridge magnets** from my travels, often inspired by national parks and wild nature.
 
 ---
 
@@ -58,7 +55,7 @@ Before my Ph.D., I worked on interdisciplinary projects in **urban science**, **
 
 - **Tsinghua University** — *Generative AI for Urban Design*
 
-Developed a **Conditional GAN** to generate urban block layouts under zoning constraints, integrating a **human-in-the-loop refinement loop** that fused **design thinking with machine learning**.
+  Developed a **Conditional GAN** to generate urban block layouts under zoning constraints, integrating a **human-in-the-loop refinement loop** that fused **design thinking with machine learning**.
 
 
 - **Peking University** — *Advancing Normalizing Flows*
@@ -69,8 +66,7 @@ Developed a **Conditional GAN** to generate urban block layouts under zoning con
 
 - **Chinese Academy of Sciences (CAS)** — *Multi-Modal Fusion for Disaster Forecasting*
 
-  
-Led development of a **multi-modal flood prediction system** fusing satellite, sensor, and river topology data. Built **U-Net, CNN-LSTM, and GNN pipelines** to model spatiotemporal patterns, improving **national early-warning platforms** for risk assessment and resource allocation.
+  Led development of a **multi-modal flood prediction system** fusing satellite, sensor, and river topology data. Built **U-Net, CNN-LSTM, and GNN pipelines** to model spatiotemporal patterns, improving **national early-warning platforms** for risk assessment and resource allocation.
 
 
 
