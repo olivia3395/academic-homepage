@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 
-
-<!-- Custom font styling for homepage -->
 <style>
 .splash .page__content p,
 .page__content p,
@@ -22,10 +20,13 @@ author_profile: true
 
 .page__title {
   font-family: "Georgia", serif;
-  font-size: 28px;
-  font-weight: 500;
+  font-size: 22px;     /* 原来 28px，缩小一些 */
+  font-weight: 400;    /* 更轻一点，避免过于粗重 */
+  color: #333333;      /* 略柔和，避免刺眼 */
+  margin-bottom: 0.8em;/* 和正文间距协调 */
 }
 </style>
+
 
 
 
