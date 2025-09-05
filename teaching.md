@@ -67,23 +67,13 @@ author_profile: true
 
 
 
-### 🎓 Teaching Experience
+### Teaching Experience
 
-Since joining Boston University, I’ve had the pleasure of serving as a **Teaching Assistant** for multiple undergraduate and graduate-level statistics courses. I enjoy helping students build mathematical intuition and confidence in applying statistical methods across theory and practice.
+Served as **Teaching Assistant/Instructor** for undergraduate and graduate statistics courses at Boston University, providing support through lectures, office hours, reviews, and coding labs in R/Python.
 
-#### 📘 Courses TA’d at Boston University
+**Courses:** MA 575 Linear Models · MA 582 Mathematical Statistics · MA 415 Data Science in R · MA 214 Applied Statistics · MA 213 Statistics & Probability · MA 113 Elementary Statistics
 
-- **MA 113** — Elementary Statistics  
-- **MA 115** — Statistics I  
-- **MA 213** — Basic Statistics and Probability  
-- **MA 582** — Mathematical Statistics
-
-I’ve supported students through lectures, discussions, office hours, exam reviews, and hands-on coding practice using R and Python. Teaching has been a core part of my academic life, and I strive to create a supportive and engaging learning environment where students feel comfortable asking questions and exploring ideas.
-
-
-### 🏅 Best TA Award at Boston University
-
-I'm thrilled to share that I was awarded the **Best Teaching Assistant Award** at Boston University!  
+Awarded the **Best Teaching Assistant Award** at Boston University this year.
 
 
 <table style="width: 100%; text-align: center;">
