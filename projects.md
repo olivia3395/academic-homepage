@@ -63,7 +63,7 @@ We study **nonparametric regression under covariate shift** with scarce target d
 
 
 - **Hypergraph-Augmented Knowledge Graph Embedding**
-- 
+
 We develop a **hybrid embedding framework** that fuses **knowledge graphs** with **hypergraph co-occurrence signals** to capture higher-order semantics. By integrating **hypergraph encodings into GNNs** (GCN/HyperGCN), it improves **link prediction** in sparse biomedical data for **drug discovery and disease treatment**.
 
 
