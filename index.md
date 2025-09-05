@@ -51,6 +51,5 @@ My research focuses on **transfer learning**, **graph mining**, and **nonparamet
 
 Before BU, I earned my **M.A. in Statistics** at Columbia University and **B.S. in Mathematics** at Shandong University (Hua Loo-Keng Talent Program, with Chinese Academy of Sciences.).
 
---
 
 👉 Check out my [research](/projects/), [data science projects](/ds_home/), explore my [teaching](/teaching/) experience, browse my [industry work](/industry/), or read more [about me](/about/).
