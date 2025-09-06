@@ -33,11 +33,8 @@ author_profile: true
 
 ### Research Projects
 
-
-  - **Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds**
-
-We study **nonparametric regression under covariate shift** with scarce target data near a **low-dimensional manifold** and abundant high-dimensional source data. We establish **new minimax rates** showing a **phase transition** driven by smoothness, intrinsic vs. ambient dimension, and sample sizes. Our **local polynomial estimator** (with an adaptive version for unknown smoothness/dimension) achieves the optimal rate. This unifies covariate shift, manifold learning, and adaptive inference, with sharp guarantees. *Under review at JASA* [arXiv:2507.00889](https://arxiv.org/abs/2507.00889).
-
+- [**Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds**](https://arxiv.org/abs/2507.00889)  
+  We study **nonparametric regression under covariate shift** with scarce target data near a **low-dimensional manifold** and abundant high-dimensional source data. We establish **new minimax rates** showing a **phase transition** driven by smoothness, intrinsic vs. ambient dimension, and sample sizes. Our **local polynomial estimator** (with an adaptive version for unknown smoothness/dimension) achieves the optimal rate. This unifies covariate shift, manifold learning, and adaptive inference, with sharp guarantees. *Under review at JASA*.
 
   ![PhaseShift Workflow](/assets/images/phaseshift_workflow.jpg)
 
